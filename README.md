@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Balkis and i'm a research master's student in Data Science in The Higher Institute of Information Technologies and Communication in Borj Cedria</p>
+<p align="left">My name is Balkis and i'm a research master's student in Data Science in The Higher Institute of Information Technologies and Communication in Borj Cedria - Tunisia </p>
 
 ###
 
